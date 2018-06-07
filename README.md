@@ -1,7 +1,7 @@
 # BiZu openApi
 
 ## 目录
-- /open/api/all_order-获取全部委托
+- [/open/api/all_order-获取全部委托](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%85%A8%E9%83%A8%E5%A7%94%E6%89%98.md)
 
 - /open/api/all_trade-获取全部成交记录
 
