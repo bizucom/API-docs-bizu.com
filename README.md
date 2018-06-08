@@ -9,7 +9,7 @@
 
 - [/open/api/common/symbols 查询系统支持的所有交易对及精度](https://github.com/bizukex/API-docs/blob/master/%E6%9F%A5%E8%AF%A2%E7%B3%BB%E7%BB%9F%E6%94%AF%E6%8C%81%E7%9A%84%E6%89%80%E6%9C%89%E4%BA%A4%E6%98%93%E5%AF%B9%E5%8F%8A%E7%B2%BE%E5%BA%A6.md)
 
-- /open/api/create_order-创建订单
+- [/open/api/create_order-创建订单](https://github.com/bizukex/API-docs/blob/master/%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95.md)
 
 - /open/api/get_records 获取K线数据
 
