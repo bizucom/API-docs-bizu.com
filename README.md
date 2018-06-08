@@ -17,7 +17,7 @@
 
 - [ /open/api/get_trades 获取行情成交记录](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E8%A1%8C%E6%83%85%E6%88%90%E4%BA%A4%E8%AE%B0%E5%BD%95.md)
 
-- /open/api/market_dept 查询买卖盘深度
+- [/open/api/market_dept 查询买卖盘深度](https://github.com/bizukex/API-docs/blob/master/%E6%9F%A5%E8%AF%A2%E4%B9%B0%E5%8D%96%E7%9B%98%E6%B7%B1%E5%BA%A6.md)
 
 - /open/api/market-获取各个币对的最新成交价
 
