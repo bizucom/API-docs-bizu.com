@@ -25,7 +25,7 @@
 
 - [/open/api/order_info-获取订单详情](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85.md)
 
-- /open/api/user/account-资产余额
+- [/open/api/user/account-资产余额](https://github.com/bizukex/API-docs/blob/master/%E8%B5%84%E4%BA%A7%E4%BD%99%E9%A2%9D.md)
 
 - hanxun api（暂定方案，有异议请及时沟通修改）The tentative plan, if there is any objection, please communicate in time
 
