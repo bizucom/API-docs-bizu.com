@@ -21,7 +21,7 @@
 
 - [/open/api/market-获取各个币对的最新成交价](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%90%84%E4%B8%AA%E5%B8%81%E5%AF%B9%E7%9A%84%E6%9C%80%E6%96%B0%E6%88%90%E4%BA%A4%E4%BB%B7.md)
 
-- /open/api/new_order-获取当前委托
+- [/open/api/new_order-获取当前委托](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E5%A7%94%E6%89%98.md)
 
 - /open/api/order_info-获取订单详情
 
