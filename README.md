@@ -3,7 +3,7 @@
 ## 目录
 - [/open/api/all_order-获取全部委托](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%85%A8%E9%83%A8%E5%A7%94%E6%89%98.md)
 
-- [/open/api/all_trade-获取全部成交]记录(https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%85%A8%E9%83%A8%E6%88%90%E4%BA%A4%E8%AE%B0%E5%BD%95.md)
+- [/open/api/all_trade-获取全部成交记录](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%85%A8%E9%83%A8%E6%88%90%E4%BA%A4%E8%AE%B0%E5%BD%95.md)
 
 - /open/api/cancel_order-取消委托单
 
