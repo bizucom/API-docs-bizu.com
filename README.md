@@ -23,7 +23,7 @@
 
 - [/open/api/new_order-获取当前委托](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E5%A7%94%E6%89%98.md)
 
-- /open/api/order_info-获取订单详情
+- [/open/api/order_info-获取订单详情](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E8%AE%A2%E5%8D%95%E8%AF%A6%E6%83%85.md)
 
 - /open/api/user/account-资产余额
 
