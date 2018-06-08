@@ -11,7 +11,7 @@
 
 - [/open/api/create_order-创建订单](https://github.com/bizukex/API-docs/blob/master/%E5%88%9B%E5%BB%BA%E8%AE%A2%E5%8D%95.md)
 
-- /open/api/get_records 获取K线数据
+- [/open/api/get_records 获取K线数据](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96K%E7%BA%BF%E6%95%B0%E6%8D%AE.md)
 
 - /open/api/get_ticker 获取当前行情
 
