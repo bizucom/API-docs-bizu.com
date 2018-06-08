@@ -15,7 +15,7 @@
 
 - [/open/api/get_ticker 获取当前行情](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%A1%8C%E6%83%85.md)
 
-- /open/api/get_trades 获取行情成交记录
+-[ /open/api/get_trades 获取行情成交记录](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E8%A1%8C%E6%83%85%E6%88%90%E4%BA%A4%E8%AE%B0%E5%BD%95.md)
 
 - /open/api/market_dept 查询买卖盘深度
 
