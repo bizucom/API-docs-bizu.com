@@ -19,7 +19,7 @@
 
 - [/open/api/market_dept 查询买卖盘深度](https://github.com/bizukex/API-docs/blob/master/%E6%9F%A5%E8%AF%A2%E4%B9%B0%E5%8D%96%E7%9B%98%E6%B7%B1%E5%BA%A6.md)
 
-- /open/api/market-获取各个币对的最新成交价
+- [/open/api/market-获取各个币对的最新成交价](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%90%84%E4%B8%AA%E5%B8%81%E5%AF%B9%E7%9A%84%E6%9C%80%E6%96%B0%E6%88%90%E4%BA%A4%E4%BB%B7.md)
 
 - /open/api/new_order-获取当前委托
 
