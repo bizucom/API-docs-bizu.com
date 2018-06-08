@@ -13,7 +13,7 @@
 
 - [/open/api/get_records 获取K线数据](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96K%E7%BA%BF%E6%95%B0%E6%8D%AE.md)
 
-- /open/api/get_ticker 获取当前行情
+- [/open/api/get_ticker 获取当前行情](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%BD%93%E5%89%8D%E8%A1%8C%E6%83%85.md)
 
 - /open/api/get_trades 获取行情成交记录
 
