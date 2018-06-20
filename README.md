@@ -37,7 +37,6 @@
 请求参数按照字典排序，然后以keyvalue的形式拼接成字符串string，最后sign=MD5(string+secretKey)。注意：如果请求参数中value为NULL的 情况，则在拼接字符串时不计入签名字符串。<br>
 例如： <br>
 参数如下： <br>
-#
 `
 {
       country = 86; 
