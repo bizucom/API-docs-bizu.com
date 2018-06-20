@@ -56,7 +56,6 @@ sign=MD5(string+secretKey)
       content-type:application/x-www-form-urlencoded
 
 3. 错误码 
-# 
 | 错误码 | 说明 | 备注 |
 | ----- | :------: | -------: |
 | 0 | 成功 |  |
