@@ -160,7 +160,7 @@ ws://stagingqa.365os.com/kline-api/ws
                 "channel":"market_$base$quote_depth_step[0-2]",
                 "cb_id":"自定义",
                 "asks":150,
-                "bid s":150
+                "bids":150
               }
 }
 
