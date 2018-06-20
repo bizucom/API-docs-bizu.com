@@ -31,6 +31,8 @@
 
 - sanweidu特殊接口（需要超管权限）
 
+- [WS行情（ws://stagingqa.365os.com/kline-api/ws） 订阅-K线行情]()
+
 ##  通用规则
 
 1.签名： <br>
