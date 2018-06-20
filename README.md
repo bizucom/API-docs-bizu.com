@@ -39,21 +39,23 @@
 参数如下： <br>
 ```
 {
-      country = 86; 
-      mobile = 15882133579;
-      password = 654321zz;
-      time = 1516007245;
+      'symbol': 'ltcbtc',
+      'api_key': '0816016bb06417f50327e2b557d39aaa',
+      'sign': 'a169740d0588141ef70b71cf11ff8bf3',
+      'time': '1522055680'
+
 }
 ```
 拼接完成后：
 ```
-string = country86mobile15882133579password654321zztime1516007278
-sign=MD5(string+secretKey)
+string=api_key0816016bb06417f50327e2b557d39aaasymbolltcbtctime1522055680
+sign = MD5(string+secretKey) = MD5(api_key0816016bb06417f50327e2b557d39aaasymbolltcbtctime1522055680xxxxxxxxxxxxxxxxx)
 ```
 
 2.post请求参数采用表单格式提交数据
-      content-type:application/x-www-form-urlencoded
-      
+```
+content-type:application/x-www-form-urlencoded
+```        
 3.错误码 
 
 | 错误码 | 说明 | 备注 |
