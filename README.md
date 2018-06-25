@@ -31,7 +31,7 @@
 
 - sanweidu特殊接口（需要超管权限）
 
-- [WS行情（ws://stagingqa.365os.com/kline-api/ws） 订阅-K线行情API](https://github.com/bizukex/openApiDocument/blob/master/WS%E8%A1%8C%E6%83%85)
+- [WS行情（ws://stagingqa.365os.com/kline-api/ws） 订阅-K线行情API](https://github.com/bizukex/API-docs-bizu.com/blob/master/WS%E8%A1%8C%E6%83%85.md)
 
 ##  通用规则
 
