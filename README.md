@@ -52,6 +52,7 @@
 ```
 string=api_key0816016bb06417f50327e2b557d39aaasymbolltcbtctime1522055680
 sign = MD5(string+secretKey) = MD5(api_key0816016bb06417f50327e2b557d39aaasymbolltcbtctime1522055680xxxxxxxxxxxxxxxxx)
+最终：sign=48105baf432a6626051a72fb160b617e
 ```
 
 2.post请求参数采用表单格式提交数据
