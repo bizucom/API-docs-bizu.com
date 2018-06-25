@@ -1,4 +1,4 @@
-# Bizu openApi
+# Bizu openAPI
 
 ## 目录
 - [/open/api/all_order-获取全部委托API](https://github.com/bizukex/API-docs/blob/master/%E8%8E%B7%E5%8F%96%E5%85%A8%E9%83%A8%E5%A7%94%E6%89%98.md)
