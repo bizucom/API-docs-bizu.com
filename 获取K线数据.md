@@ -1,11 +1,12 @@
 # /open/api/get_records 获取K线数据
 ## 该接口不进行签名校验
-### /open/api/get_records(get)：获取K线数据
-|参数|填写类型|说明|
-|----|:----:|----:|
-|symbol|必填 |市场标记，bchbtc，详情看下面|
-|period|必填|单位为分钟，比喻1分钟则为1，一天则为1440|
-#
+<table>
+    <tr><td colspan="3">/open/api/get_records(get)：获取K线数据</td></tr>
+    <tr><td>参数</td><td>填写类型</td><td>说明</td></tr>
+    <tr><td>symbol</td><td>必填</td><td>市场标记，bchbtc，详情看下面</td></tr>
+    <tr><td>period</td><td>必填</td><td>单位为分钟，比喻1分钟则为1，一天则为1440</td></tr>
+</table>
+
 |虚拟币编号|xxx-cny|xxx-btc|xxx-usdt|
 |----|:----:|:-----:|-----:|
 |bch|bcccny|bchbtc|bchusdt|
@@ -13,12 +14,15 @@
 |etc |etccny |etcbtc|etcusdt|
 |eth |ethcny |ethbtc|ethusdt|
 |ltc|ltccny|ltcbtc |ltcusdt|
-#### 返回
-|字段|实例|解释|
-|----|:----:|:----:|
-|code|0|-|
-|msg|"suc"|" code>0失败|
-|data|如下：|-|
+
+<table>
+    <tr><td colspan="3">返回</td></tr>
+    <tr><td>字段</td><td>实例</td><td>解释</td></tr>
+    <tr><td>code</td><td>0</td><td></td></tr>
+    <tr><td>msg</td><td>"suc"</td><td>code>0失败</td></tr>
+    <tr><td>data</td><td>如下：</td></tr>
+ </table>
+  
 ```
 [
    [
